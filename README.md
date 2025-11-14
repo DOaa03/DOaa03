@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DOaa03
-- 👀 I’m interested in space science,kpop ,AI,IOT and many other.
-- 🌱 I’m currently learning web development and in college I'm specialized in space navigation.
-- 💞️ I’m looking to collaborate on web design.
+- 👀 I’m interested in ADCS,RL,IOT and many other.
+- 🌱 I'm specialized in space navigation.
 - 📫 How to reach me superdoaa03xl@gmail.com this my email,I will be glad receiving your mails.
 
 <!---
